@@ -1,0 +1,5 @@
+streamlit 
+scrapegraphai 
+openai pydantic 
+langchain-openai
+playwright install
